@@ -1,1 +1,2 @@
-# Assignment-1
+# Haiden Cramers' MART341-WebDesign
+Repository for my introduction to Web Design and Web Development Homework
