@@ -5,6 +5,7 @@
 *There are many ways you can write in markdown*
 
 **BOLD**
+
 *Italics*
 
 # Header Sizes
