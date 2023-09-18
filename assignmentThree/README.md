@@ -1,4 +1,7 @@
-# HAIDEN CRAMER
+
+# Assignment 3
+
+## Haiden Cramer
 
 - I have learned a little markdown.
 - I enjoy meditating and sleeping. 
