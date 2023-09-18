@@ -9,9 +9,9 @@
 
 
   
-[Text Editor In Action](https://github.com/haidencramer/MART341-WebDesign/blob/main/assignmentThree/images/VISUALSTUDIOPIC.png)
+[Text Editor In Action](./images/VISUALSTUDIOPIC.png)
 
-[Responses to Homework](https://github.com/haidencramer/MART341-WebDesign/blob/main/assignmentThree/responses.txt)
+[Responses to Homework](./responses.txt)
 
 [New York Times](https://www.nytimes.com/)
 
