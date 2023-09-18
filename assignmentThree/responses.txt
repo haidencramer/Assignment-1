@@ -1,3 +1,5 @@
 1.) An advantage of using text editors is that they speed up the writing process and are equipped with the right tools to help quickly identify errors.
 
-2.) Relative URLs contain no protocols or domain information. Relative URLs are shorter than absolute URLs but can only reference files in the same path as the page you are working on. Absolute URLs contain all the protocols and domain information for a file location. I used an Absolute URL to link the NY Times to my README.md file in the assignmentThree folder.
+2.) Relative URLs contain no protocols or domain information. Relative URLs are shorter than absolute URLs but can only reference files in the same path as the page you are working on. 
+
+Absolute URLs contain all the protocols and domain information for a file location. I used an Absolute URL to link the NY Times to my README.md file in the assignmentThree folder.
