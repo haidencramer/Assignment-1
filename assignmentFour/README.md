@@ -14,3 +14,5 @@
 5. The index.html file is its master file. A site can have multiple index files, but at least one index is the site's homepage. The index file we created for this assignment will display my live website for this course. 
 
 6. Maintaining good naming practices is important because it helps organize files and directories better. Your index.html page has to be saved in the main root folder. Some best naming practices include camel casing (myFile), where the first word is lowercase, and the other word/words are uppercase. I find camel casing to be my favorite naming convention. 
+
+[Screenshot to my index page](./images/screenshot.png)
