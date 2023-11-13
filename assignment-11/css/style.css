@@ -1,0 +1,136 @@
+
+body{
+    background-color: rgb(47, 98, 144);
+    
+}
+
+.title{
+    font-family: Faceless;
+    font-size: 100px;
+    text-shadow: -6px 2px 0 #000;
+    color:rgb(118, 16, 67);
+    height: 200px;
+    text-align: center;
+
+
+}
+
+img{
+    padding: 10px 10px;
+
+}
+
+.image-container{
+    border: 10px;
+    border-color: rgb(95, 25, 123);
+    border-width: 10px;
+    border-style: double;
+    background-color: aquamarine;
+    margin: auto;
+    width: 95%
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#chino{
+    font-weight: 800;
+    color: rgb(154, 26, 75);
+}
+
+#chino:hover {
+    background: url("../images/chinoMoreno.jpeg");
+    float:left;
+    display: block;
+    width: 1000px;
+    height: 675px;
+}
+
+#cunningham{
+    font-weight: 800;
+    color: blueviolet;
+}
+
+#cunningham:hover {
+    background: url("../images/abeCunningham.jpeg");
+    float:right;
+    display: block;
+    width: 251px;
+    height: 214px;
+}
+
+#carpenter{
+    font-weight: 800;
+    color: rgb(249, 88, 219);
+}
+
+#carpenter:hover {
+    background: url("../images/stephenCarpenter.jpeg");
+    float:left;
+    display: block;
+    width: 400px;
+    height: 449px;
+}
+
+#uppercase{
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+#maverick{
+    color: seagreen;
+}
+
+#maverick:hover:after{
+    content: ": An American entertainment company founded in 1992 by Warner Music Group and run by recording artist Madonna, as well as Frederick DeMann and Veronica Dashev.";
+    font-weight: 200;
+    color: blueviolet;
+    font-style: bold;
+
+}
+
+.first-container{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-size: larger;
+    background-color: rgba(245, 245, 245, 0.677);
+    border-style: ridge;
+    border-color: black;
+    border-width: 10px;
+    width: 95%;
+    margin: auto;
+}
+
+.album-container{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(17, 14, 14);
+    border-style: double;
+    border-color: rgb(169, 29, 29);
+    border-width: 10px;
+    width: 95%;
+    margin: auto;
+}
+
+#albumpara{
+    color:bisque
+}
+
+#albumhead{
+    color: rgb(43, 98, 216);
+    font-family: KnifeMetal;
+    text-shadow: -6px 2px 0 #fcc1c1;
+    
+}
+
+#header-style{
+    color: rgb(33, 49, 44);
+    font-family: MaskDown;
+    letter-spacing: 3px;
+    
+}

@@ -1,0 +1,19 @@
+
+@font-face{
+    font-family: 'MaskDown';
+    src: url('../fonts/MaskDown.ttf') format('truetype');
+    font-style: 'normal';
+    font-stretch: ultra-expanded;
+}
+
+@font-face{
+    font-family:'Faceless';
+    src: url('../fonts/Faceless.ttf') format('truetype');
+    font-style: 'normal';
+}
+
+@font-face{
+    font-family:'KnifeMetal';
+    src: url('../fonts/KnifeMetal.ttf') format('truetype');
+    font-style: 'normal';
+}
