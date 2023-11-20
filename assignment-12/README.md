@@ -1,0 +1,3 @@
+## This is my assignment 12
+https://haidencramer.github.io/MART341-WebDesign/assignment-12/
+This is my page for assignment 12. This assignment I made a page about grizzly bears using dropdown, display, position, containers, fonts, and different css elements. This was a lot of fun I enjoyed making the drop down menu a bunch it makes a lot more sense to me now after this assignment how to actually make one. 

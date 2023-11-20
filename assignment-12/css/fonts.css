@@ -1,0 +1,15 @@
+@font-face{
+    font-family: 'bear';
+    src: url('../fonts/bear.ttf') format('truetype');
+    font-style: 'normal';
+
+}
+
+@font-face{
+    font-family: 'run';
+    src: url('../fonts/run.ttf') format('truetype');
+    font-style: 'normal';
+
+}
+
+
